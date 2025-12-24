@@ -1,0 +1,27 @@
+{
+  "id": "lexschedule-app-v1",
+  "name": "المحامي الذكي",
+  "short_name": "المحامي",
+  "description": "المساعد الذكي للمحامين - تنظيم الجلسات والمواعيد دون اتصال",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "categories": ["productivity", "business", "legal"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/924/924915.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/924/924915.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
